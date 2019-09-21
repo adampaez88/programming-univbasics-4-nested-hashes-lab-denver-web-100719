@@ -147,7 +147,7 @@ def adding_to_dennis
         }
      }
 	programmer_hash[:dennis_ritchie][:languages][1]= "Assembly"
-	# programmer_hash[:dennis_ritchie][:languages].push("Assembly") #This line will also work the same as the line above(149)
+	# programmer_hash[:dennis_ritchie][:languages].push("Assembly") #This line will also work the same as the line above(line 149)
 	programmer_hash
 
 end
